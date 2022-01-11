@@ -16,7 +16,7 @@ Project of an CRUD developed with Rails.
 
 ## Requirements
 
-- Ruby >= 2.3.3
+- Ruby >= 2.7.5
 - Rails >= 5.1.6
 - SQLite >= 3
 
@@ -74,17 +74,10 @@ This project is licensed under <a href="license.md">The MIT License (MIT)</a>.
 
 ## Screenshots
 
-![Screenshots](screenshots/screenshot01.png)<br><br>
-![Screenshots](screenshots/screenshot02.png)<br><br>
-![Screenshots](screenshots/screenshot03.png)<br><br>
-![Screenshots](screenshots/screenshot04.png)<br><br>
-![Screenshots](screenshots/screenshot05.png)<br><br>
-![Screenshots](screenshots/screenshot06.png)<br><br>
-![Screenshots](screenshots/screenshot07.png)<br><br>
-![Screenshots](screenshots/screenshot08.png)<br><br>
+
 
 
 Developed by<br>
-Danilo Meneghel<br>
-danilo.meneghel@gmail.com<br>
-http://danilomeneghel.github.io/<br>
+GUILAVOGUI Joseph Kognon<br>
+guilavoguijoseph@gmail.com<br>
+
